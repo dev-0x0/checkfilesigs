@@ -1,3 +1,3 @@
-# check_file_sigs.py
+# check_file_sig.py
 
 
